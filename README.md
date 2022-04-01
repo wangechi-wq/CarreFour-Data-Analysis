@@ -22,9 +22,9 @@ You have also been requested to check whether there are any anomalies in the giv
 
 The dataset files for part 1, 2, 3 and 4 can be found below:
 
-Part 1 and 2: Dataset [Link (Links to an external site.)].
-Part 3: Dataset [Link (Links to an external site.)].
-Part 4: Dataset [Link (Links to an external site.)].
+Part 1 and 2: Dataset [http://bit.ly/CarreFourDataset)].
+Part 3: Dataset [http://bit.ly/SupermarketDatasetII].
+Part 4: Dataset [http://bit.ly/CarreFourSalesDataset].
 
 ## Required Tools
 ## R-Basics & RStudio
